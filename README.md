@@ -51,7 +51,7 @@ e11crypt_project/
 pip install cryptography prompt_toolkit "or"
 sudo apt install python3-prompt-toolkit
 
-                                                                                                                                                  تشغيل الاداة من داخل مجلد المشروع:
+                                                                                                                                                  تشغيل الاداة                       من داخل مجلد المشروع:
 
   ***** python main.py *******           
 
